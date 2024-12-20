@@ -15,7 +15,7 @@
 - **Long Term Inv**: ₹0
 - **Cash from operating activity**: ₹-63cr
 - **Free Cashflow**: ₹-70cr
-- **Long Term Debt**: 10.81
+- **Long Term Debt**: ₹10.81cr
 
 ## Key Highlights
 - EV production sector high growth but stock lagging behind other competitor
